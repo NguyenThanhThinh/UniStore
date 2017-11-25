@@ -224,7 +224,6 @@
     <Compile Include="Models\EntityModels\SubCategory.cs" />
     <Compile Include="Models\EntityModels\User.cs" />
     <Compile Include="Models\Enums\AppRole.cs" />
-    <Compile Include="Models\Enums\Common.cs" />
     <Compile Include="Models\Enums\OrderStatus.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Repositories\IRepository.cs" />
