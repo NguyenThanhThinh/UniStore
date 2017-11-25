@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniStore", "UniStore\UniStore.csproj", "{840B4747-3ABE-4B4C-8379-AC01584D4BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840B4747-3ABE-4B4C-8379-AC01584D4BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840B4747-3ABE-4B4C-8379-AC01584D4BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840B4747-3ABE-4B4C-8379-AC01584D4BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840B4747-3ABE-4B4C-8379-AC01584D4BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED5C80A-D28A-4BF9-880F-9E74A3AEF247}
+	EndGlobalSection
+EndGlobal
