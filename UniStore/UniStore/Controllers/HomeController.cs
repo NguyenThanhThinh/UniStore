@@ -6,8 +6,16 @@ using System.Web.Mvc;
 
 namespace UniStore.Controllers
 {
+    using UniStore.Handlers;
     public class HomeController : Controller
     {
+        private readonly ICategoryHandler categoryHandler;
+     
+        public HomeController(ICategoryHandler categoryHandler)
+        {
+            this.categoryHandler = categoryHandler;
+        }
+
         public ActionResult Index()
         {
             return View();
